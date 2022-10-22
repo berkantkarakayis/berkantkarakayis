@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @berkantkarakayis
 - 👀 I’m interested in robotics , software development and computer sciences.
-- 🌱 I’m currently learning c# , html , css , javascript , MSSQL , Joomla...
-- 📫 My website : berkantkarakayis.epizy.com
-- 📫 How to reach me ----> Instagram @berkantkrkys ----> Twitter @berkantkrkys ----> berkantkarakayiss@gmail.com
+- 📫 My website : berkantkarakayis.com.tr    /   berkantkarakayis.xyz
+- 📫 How to reach me ----> Instagram @berkantkrkys ----> Twitter @berkantkrkys ----> Mail berkantkarakayiss@gmail.com
 
 
 <!---
