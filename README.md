@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkantkarakayis
 - 👀 I’m interested in robotics , software development and computer sciences.
-- 📫 My website : berkantkarakayis.com.tr    /   berkantkarakayis.xyz
+- 📫 My website : berkantkarakayis.com.tr    
 - 📫 How to reach me ----> Instagram @berkantkrkys ----> Twitter @berkantkrkys ----> Mail berkantkarakayiss@gmail.com
 
 
