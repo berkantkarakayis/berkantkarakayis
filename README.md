@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently searching job as a new grad developer<br>🤝 I’m looking for help with improving my skills<br>🌱 I’m currently learning react<br>💬 Ask me about anything<br>
+# Hey There! 👋
+**I'm Berkant** - I'm a web developer. I am eager to learn new technologies and frameworks, and to collaborate with other developers and professionals in the field. I am motivated by the challenges and opportunities that software development offers, and I aspire to achieve great things that can benefit society and the environment.
+
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
 
 
 ## 🌐 Socials:
