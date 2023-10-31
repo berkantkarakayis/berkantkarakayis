@@ -17,7 +17,7 @@
 
 
 <details>
-  <summary># 📊 GitHub Stats:</summary>
+  # 📊 GitHub Stats:
   
   <a href="#">![berkantkarakayis's Stats](https://github-readme-stats.vercel.app/api?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</a>
   <a href="#">![berkantkarakayis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkantkarakayis&theme=vue-dark&hide_border=true)</a>
