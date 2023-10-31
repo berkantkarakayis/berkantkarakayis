@@ -16,15 +16,15 @@
 ![berkantkarakayis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkantkarakayis&theme=vue-dark&hide_border=true)
 ![berkantkarakayis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=berkantkarakayis&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<img src='https://randommeme-five.vercel.app/' style="height: 300;"/>
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=berkantkarakayis&icon=2&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
