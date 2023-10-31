@@ -26,8 +26,7 @@
 
 <details>
   <summary>🔝 OTHER </summary>
-
-  <a href="#">![](https://github-contributor-stats.vercel.app/api?username=berkantkarakayis&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)</a>
+  
   <a href="#">![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/></a>
 </details>
     
