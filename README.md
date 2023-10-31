@@ -12,9 +12,9 @@
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,vite,wordpress,mysql,cs,nodejs,ps,arduino,matlab,git,github)](https://skillicons.dev)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=berkantkarakayis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=berkantkarakayis&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![berkantkarakayis's Stats](https://github-readme-stats.vercel.app/api?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![berkantkarakayis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkantkarakayis&theme=vue-dark&hide_border=true)
+![berkantkarakayis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
