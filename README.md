@@ -11,10 +11,18 @@
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,vite,wordpress,mysql,cs,nodejs,ps,arduino,matlab,git,github)](https://skillicons.dev)
-# 📊 GitHub Stats:
-![berkantkarakayis's Stats](https://github-readme-stats.vercel.app/api?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![berkantkarakayis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkantkarakayis&theme=vue-dark&hide_border=true)
-![berkantkarakayis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+
+
+
+<details>
+  <summary># 📊 GitHub Stats:</summary>
+  
+  <a href="#">![berkantkarakayis's Stats](https://github-readme-stats.vercel.app/api?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</a>
+  <a href="#">![berkantkarakayis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkantkarakayis&theme=vue-dark&hide_border=true)</a>
+  <a href="#">![berkantkarakayis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)</a>
+</details>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=berkantkarakayis&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
