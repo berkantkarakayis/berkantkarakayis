@@ -15,6 +15,7 @@
 ![berkantkarakayis's Stats](https://github-readme-stats.vercel.app/api?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![berkantkarakayis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkantkarakayis&theme=vue-dark&hide_border=true)
 ![berkantkarakayis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=berkantkarakayis&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
