@@ -1,5 +1,6 @@
-# Hey There! 👋
-**I'm Berkant** - I'm a web developer. I am eager to learn new technologies and frameworks, and to collaborate with other developers and professionals in the field. I am motivated by the challenges and opportunities that software development offers, and I aspire to achieve great things that can benefit society and the environment.
+[![github-header-image](https://github.com/berkantkarakayis/berkantkarakayis/assets/102322084/b4559eae-2865-4697-a564-b4395ec4334f)](https://berkantkarakayis.netlify.app/)
+
+I am eager to learn new technologies and frameworks, and to collaborate with other developers and professionals in the field. I am motivated by the challenges and opportunities that software development offers, and I aspire to achieve great things that can benefit society and the environment.
 
 [![](https://visitcount.itsvg.in/api?id=berkantkarakayis&icon=2&color=3)](https://visitcount.itsvg.in)
 
