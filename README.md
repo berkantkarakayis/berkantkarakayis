@@ -19,8 +19,9 @@ I am eager to learn new technologies and frameworks, and to collaborate with oth
   <summary>📊 GITHUB STATS: </summary>
   
   <a href="#">![berkantkarakayis's Stats](https://github-readme-stats.vercel.app/api?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</a>
-  <a href="#">![berkantkarakayis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkantkarakayis&theme=vue-dark&hide_border=true)</a>
   <a href="#">![berkantkarakayis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)</a>
+  <a href="#">![berkantkarakayis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=berkantkarakayis&theme=vue-dark&hide_border=true)</a>
+    
 </details>
 
 <details>
