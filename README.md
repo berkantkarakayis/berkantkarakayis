@@ -12,7 +12,7 @@ I am eager to learn new technologies and frameworks, and to collaborate with oth
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,vite,wordpress,mysql,cs,nodejs,ps,arduino,matlab,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,vite,typescript,wordpress,mysql,cs,nodejs,ps,arduino,matlab,git,github)](https://skillicons.dev)
 
 
 <details>
