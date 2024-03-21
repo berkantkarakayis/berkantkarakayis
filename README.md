@@ -48,7 +48,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=bekomavii&count=5&unique=false" alt="Spotify recently played"  />
   </a>
   <a>
-     <img height="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRmanJvMDMxNDd0OTdpZjJrY3F5ZG9ydnEwcHZmMXd1N25yOXVveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
+     <img height="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZmOG1vc2p6N3ZqanM0dDk2OWQ5Njl3amE4dmp1d2VjZm1taHkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
   </a>
 </div>
 
