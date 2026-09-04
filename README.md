@@ -4,11 +4,6 @@
   I am eager to learn new technologies and frameworks, and to collaborate with other developers and professionals in the field. I am motivated by the challenges and opportunities that software development offers,   and I aspire to achieve great things that can benefit society and the environment.
 </div><br>
 
-<div align="center">
-  
-  <img src="https://profile-counter.glitch.me/berkantkarakayis/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
@@ -35,7 +30,6 @@
 # 📊 Github Stats:
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkantkarakayis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=berkantkarakayis&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
