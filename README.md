@@ -38,7 +38,7 @@
 # 🔝 OTHER:
 
   <div>
-  <a href="https://open.spotify.com/user/bekomavii">
+  <a href="https://open.spotify.com/user/31y77aozxv6zzvkbjav5mcxguo2u">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=bekomavii&count=5&unique=false" alt="Spotify recently played"  />
   </a> &nbsp;
   <a>
