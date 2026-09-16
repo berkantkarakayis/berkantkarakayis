@@ -323,7 +323,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31y77aozxv6zzvkbjav5mcxguo2u" target="_blank">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/api?user=31y77aozxv6zzvkbjav5mcxguo2u&count=5&unique=false" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31y77aozxv6zzvkbjav5mcxguo2u&theme=nord&count=8&radius=24&duration=1&footer=wave&artist_color=2aa587&accent_color=2aa587" alt="Spotify recently played" />
   </a>
 </div>
 
