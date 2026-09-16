@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Berkant%20Karakay%C4%B1%C5%9F&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Real-Time%20Systems%20%E2%80%A2%20iGaming&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:04211c,50:0f4f42,100:2aa386&text=Berkant%20Karakay%C4%B1%C5%9F&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Real-Time%20Systems%20%E2%80%A2%20iGaming&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Berkant+%E2%80%94+Full-Stack+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Building+a+game+engine+behind+70%2B+casino+games;Real-time+multiplayer+servers+with+WebSocket+%26+Redis;React+Native+%26+SwiftUI+on+the+side+%F0%9F%93%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2AA386&center=true&vCenter=true&multiline=false&repeat=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Berkant+%E2%80%94+Full-Stack+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Building+a+game+engine+behind+70%2B+casino+games;Real-time+multiplayer+servers+with+WebSocket+%26+Redis;React+Native+%26+SwiftUI+on+the+side+%F0%9F%93%B1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 <!-- ═══════════════════════════════ SOCIAL BADGES ═══════════════════════════════ -->
 <div align="center">
   <a href="https://berkant.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-berkant.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-berkant.vercel.app-2aa386?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/berkant-karakayis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -36,9 +36,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=berkantkarakayis&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
-  <img src="https://img.shields.io/badge/Based_in-Istanbul,_T%C3%BCrkiye-1f2937?style=for-the-badge&logo=googlemaps&logoColor=34d399" alt="Location" />
-  <img src="https://img.shields.io/badge/Open_to-Remote_Work-1f2937?style=for-the-badge&logo=wifi&logoColor=60a5fa" alt="Remote" />
+  <img src="https://komarev.com/ghpvc/?username=berkantkarakayis&style=for-the-badge&color=2aa386&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://img.shields.io/badge/Based_in-Istanbul,_T%C3%BCrkiye-1f2937?style=for-the-badge&logo=googlemaps&logoColor=2aa386" alt="Location" />
+  <img src="https://img.shields.io/badge/Open_to-Remote_Work-1f2937?style=for-the-badge&logo=wifi&logoColor=5ed4b3" alt="Remote" />
 </div>
 
 <br/>
@@ -84,19 +84,19 @@
   <table>
     <tr>
       <td align="center" width="160">
-        <img src="https://img.shields.io/badge/4%2B-years-7c3aed?style=for-the-badge&labelColor=0f0c29" alt="4+ years" /><br/>
+        <img src="https://img.shields.io/badge/4%2B-years-2aa386?style=for-the-badge&labelColor=04211c" alt="4+ years" /><br/>
         <sub><b>Professional experience</b></sub>
       </td>
       <td align="center" width="160">
-        <img src="https://img.shields.io/badge/70%2B-games-ec4899?style=for-the-badge&labelColor=0f0c29" alt="70+ games" /><br/>
+        <img src="https://img.shields.io/badge/70%2B-games-e8b04b?style=for-the-badge&labelColor=04211c" alt="70+ games" /><br/>
         <sub><b>Running on the engine I build</b></sub>
       </td>
       <td align="center" width="160">
-        <img src="https://img.shields.io/badge/6-sports-06b6d4?style=for-the-badge&labelColor=0f0c29" alt="6 sports" /><br/>
+        <img src="https://img.shields.io/badge/6-sports-5ed4b3?style=for-the-badge&labelColor=04211c" alt="6 sports" /><br/>
         <sub><b>Live TV graphics via LiveTracker</b></sub>
       </td>
       <td align="center" width="160">
-        <img src="https://img.shields.io/badge/~1s-reconnect-22c55e?style=for-the-badge&labelColor=0f0c29" alt="~1s reconnect" /><br/>
+        <img src="https://img.shields.io/badge/~1s-reconnect-1b7f6a?style=for-the-badge&labelColor=04211c" alt="~1s reconnect" /><br/>
         <sub><b>Catch-up after disconnect</b></sub>
       </td>
     </tr>
@@ -254,7 +254,7 @@
       </td>
       <td align="center" valign="top" width="50%">
         <h3>📜 Certificates</h3>
-        <img src="https://img.shields.io/badge/Full--Stack_Bootcamp-Techcareer.net-7c3aed?style=flat-square" alt="Techcareer" /><br/>
+        <img src="https://img.shields.io/badge/Full--Stack_Bootcamp-Techcareer.net-2aa386?style=flat-square" alt="Techcareer" /><br/>
         <img src="https://img.shields.io/badge/Complete_Web_Dev_Bootcamp-Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy" /><br/>
         <img src="https://img.shields.io/badge/Cyber_Security-Cisco_Networking_Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /><br/>
         <img src="https://img.shields.io/badge/Intro_to_AI_%26_Algorithms-BTK_Akademi-E30A17?style=flat-square" alt="BTK" />
@@ -272,24 +272,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=berkantkarakayis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=berkantkarakayis&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=7c3aed&icon_color=ec4899&include_all_commits=true&count_private=true&rank_icon=github" />
-    <img src="https://github-readme-stats.vercel.app/api?username=berkantkarakayis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=ec4899&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=berkantkarakayis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5ed4b3&icon_color=e8b04b&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=berkantkarakayis&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=2aa386&icon_color=e8b04b&include_all_commits=true&count_private=true&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=berkantkarakayis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5ed4b3&icon_color=e8b04b&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=7c3aed&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&langs_count=8" width="49%" alt="Top languages" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=berkantkarakayis&theme=tokyonight&hide_border=true&background=00000000&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&mode=daily&border_radius=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=berkantkarakayis&theme=default&hide_border=true&background=00000000&ring=7c3aed&fire=ec4899&currStreakLabel=7c3aed&mode=daily&border_radius=8" />
-    <img src="https://streak-stats.demolab.com?user=berkantkarakayis&theme=tokyonight&hide_border=true&background=00000000&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&mode=daily&border_radius=8" width="60%" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5ed4b3&text_color=c9d1d9&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=2aa386&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkarakayis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=5ed4b3&langs_count=8" width="49%" alt="Top languages" />
   </picture>
 </div>
 
@@ -297,9 +287,19 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/a78bfa/berkantkarakayis" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/7c3aed/berkantkarakayis" />
-    <img src="https://ghchart.rshah.org/a78bfa/berkantkarakayis" width="100%" alt="Contribution chart" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=berkantkarakayis&theme=tokyonight&hide_border=true&background=00000000&ring=5ed4b3&fire=e8b04b&currStreakLabel=5ed4b3&mode=daily&border_radius=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=berkantkarakayis&theme=default&hide_border=true&background=00000000&ring=2aa386&fire=e8b04b&currStreakLabel=2aa386&mode=daily&border_radius=8" />
+    <img src="https://streak-stats.demolab.com?user=berkantkarakayis&theme=tokyonight&hide_border=true&background=00000000&ring=5ed4b3&fire=e8b04b&currStreakLabel=5ed4b3&mode=daily&border_radius=8" width="60%" alt="GitHub streak" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/5ed4b3/berkantkarakayis" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/2aa386/berkantkarakayis" />
+    <img src="https://ghchart.rshah.org/5ed4b3/berkantkarakayis" width="100%" alt="Contribution chart" />
   </picture>
 </div>
 
@@ -323,7 +323,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31y77aozxv6zzvkbjav5mcxguo2u" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31y77aozxv6zzvkbjav5mcxguo2u&count=5&unique=false" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/api?user=31y77aozxv6zzvkbjav5mcxguo2u&count=5&unique=false" alt="Spotify recently played" />
   </a>
 </div>
 
@@ -331,7 +331,7 @@
 
 <!-- ═══════════════════════════════ QUOTE ═══════════════════════════════ -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" alt="Dev quote" />
 </div>
 
 <br/>
@@ -345,10 +345,10 @@
     I'm always up for a good conversation about architecture, animation, or how to survive a flaky connection.
   </p>
   <a href="mailto:berkantkarakayiss@gmail.com">
-    <img src="https://img.shields.io/badge/Say_hello-berkantkarakayiss%40gmail.com-7c3aed?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Say hello" />
+    <img src="https://img.shields.io/badge/Say_hello-berkantkarakayiss%40gmail.com-2aa386?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Say hello" />
   </a>
   <a href="https://berkant.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/See_my_work-berkant.vercel.app-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/See_my_work-berkant.vercel.app-e8b04b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -356,5 +356,5 @@
 
 <!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:24243e,50:302b63,100:0f0c29&section=footer&animation=fadeIn" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2aa386,50:0f4f42,100:04211c&section=footer&animation=fadeIn" width="100%" alt="footer" />
 </div>
